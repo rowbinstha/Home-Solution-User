@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045364280488",
+    "project_id": "home-solution-a6f5c",
+    "storage_bucket": "home-solution-a6f5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045364280488:android:f3626e5e5c325d9311469d",
+        "android_client_info": {
+          "package_name": "com.robin.homesolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045364280488-aj1gij5hij3e6nqtcaa7jj967budj3a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQnoxYp1gyLfBMBP0WZaS78pdySQqKZcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045364280488-aj1gij5hij3e6nqtcaa7jj967budj3a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
